@@ -1,0 +1,13 @@
+name: DashboardEnergyPov
+title: DashboardEnergyPov
+username:
+account: jatorresmunguia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5823051
+bundleId: 5874466
+url: https://jatorresmunguia.shinyapps.io/DashboardEnergyPov/
+when: 1651776127.32458
+lastSyncTime: 1651776127.32458
+asMultiple: FALSE
+asStatic: FALSE
